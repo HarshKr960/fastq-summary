@@ -6,7 +6,7 @@ layout: page
 
 # fastq-summary
 
-[!\[CI](https://github.com/HarshKr960/fastq-summary/actions/workflows/ci.yml/badge.svg)](https://github.com/YOUR-USERNAME/fastq-summary/actions/workflows/ci.yml)
+[!\[CI](https://github.com/HarshKr960/fastq-summary/actions/workflows/ci.yml/badge.svg)](https://github.com/HarshKr960/fastq-summary/actions/workflows/ci.yml)
 !\[Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)
 !\[License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
