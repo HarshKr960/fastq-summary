@@ -1,0 +1,16 @@
+@read1 length10 highqual
+ACGTACGTAC
++
+IIIIIIIIII
+@read2 length10 lowqual
+TTTTAAAACC
++
+!!!!!!!!!!
+@read3 length8 midqual allGC
+GGGGCCCC
++
+55555555
+@read4 length12 highqual noGC
+ATATATATATAT
++
+IIIIIIIIIIII
